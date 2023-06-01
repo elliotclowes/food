@@ -1,0 +1,31 @@
+html {
+    background-color: white;
+}
+
+
+body{
+    width: 400px;
+    background-color: #f8d381;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+
+a {
+    color: green;
+}
+
+h2{
+    font-size: 22px;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+img {
+    border-radius: 10%;
+}
+
+div {
+    margin: 18px;
+}
